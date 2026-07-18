@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Bahae%20Eddine%20Mekrane&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h3>Computer Engineering Student • ENSA Marrakech</h3>
+<h3>Software Engineering Student • ENSA Marrakech</h3>
 
 <p>🇲🇦 Morocco</p>
 
