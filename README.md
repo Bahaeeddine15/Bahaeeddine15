@@ -1,82 +1,164 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Bahae%20Eddine%20Mekrane&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Bahae%20Eddine%20Mekrane&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+
+<h3>Computer Engineering Student @ ENSA Marrakech</h3>
+
+<p>🇲🇦 Marrakech, Morocco</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Learning+Salesforce;Learning+DevOps;Open+to+PFE+Internship+2027)](https://git.io/typing-svg)
 
 <p>
-<b>Computer Engineering Student @ ENSA Marrakech</b>
-</p>
+<a href="mailto:mekranebahae153@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-🇲🇦 Marrakech, Morocco
-</p>
+<a href="https://www.linkedin.com/in/bahae-eddine-mekrane/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Salesforce+Developer;Learning+DevOps;Open+to+PFE+Internship+2027)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=Bahaeeddine15&style=for-the-badge&color=0e75b6"/>
+</p>
 
 </div>
 
-### 🚀 About Me
+---
 
-- 🎓 Final-year student at **ENSA Marrakech**, Université Cadi Ayyad
-- 💻 Full-stack developer — Spring Boot, Angular, FastAPI
-- 🛠️ Learning DevOps — Docker, Jenkins, Azure
-- 🏢 Past internships at **CODE212** and **Norsys Afrique**
-- 🌍 Represented **Oracle** at **GITEX Africa**
-- 📌 Actively looking for a **PFE (end-of-studies) internship**
+# 🚀 About Me
 
-<br>
+🎓 Final-year Computer Engineering student at **ENSA Marrakech**
 
-### 🧰 Tech Stack
+💻 Passionate about building scalable web applications using **Java**, **Spring Boot**, **Angular**, and **FastAPI**
 
-<div align="center">
+☁️ Currently learning **Salesforce**, **Docker**, **Jenkins**, and **Azure**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+🏢 Internship experience at **Norsys Afrique** and **CODE212**
 
-</div>
+🌍 Oracle Representative at **GITEX Africa**
 
-<br>
+📌 Looking for a **PFE Internship (2027)**
 
-### 📊 GitHub Stats
+---
+
+# 💼 Experience
+
+### 🏢 Norsys Afrique
+**AI & Software Engineering Intern**
+
+- Built recommendation systems
+- Developed REST APIs
+- Worked with Python & Machine Learning
+
+### 🏢 CODE212
+**Full-Stack Developer Intern**
+
+- Laravel development
+- Feature implementation
+- Bug fixing
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Technologies |
+|---------|--------------|
+| 🤖 AI Job Copilot | FastAPI • React Native • PostgreSQL |
+| 💸 Okane Transfer | Spring Boot • Angular • PostgreSQL |
+| 😊 Sentiment Analysis Platform | Python • AWS • Streamlit |
+| 🚢 DevOps CI/CD Pipeline | Docker • Jenkins • Azure |
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,php,html,css" />
+
+</p>
+
+## ⚙️ Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,laravel" />
+
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</p>
+
+## ☁️ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,azure,git,github,vscode,idea" />
+
+</p>
+
+## 🌩️ Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Bahaeeddine15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bahaeeddine15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Bahaeeddine15&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Bahaeeddine15&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+# 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bahaeeddine15/Bahaeeddine15/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bahaeeddine15/Bahaeeddine15/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Bahaeeddine15/Bahaeeddine15/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Bahaeeddine15/Bahaeeddine15/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-📫 Reach me: **mekranebahae153@gmail.com** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/bahae-eddine-mekrane/)
+### 📫 Let's Connect!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<a href="mailto:mekranebahae153@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bahae-eddine-mekrane/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
