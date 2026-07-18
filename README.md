@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bahae%20Eddine%20Mekrane&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%40%20ENSA%20Marrakech&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Java+Spring+Boot+%7C+Angular+%7C;Currently+seeking+a+PFE+2027+Internship;Based+in+Marrakech%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Java+Spring+Boot+%7C+Angular;Currently+seeking+a+PFE+2027+Internship;Based+in+Marrakech%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
 
 </div>
 
