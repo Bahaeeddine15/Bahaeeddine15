@@ -6,19 +6,16 @@
 
 <p>🇲🇦 Morocco</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+•+Spring+Boot+•+Angular;Learning+Salesforce+%26+DevOps;Open+to+PFE+Internship+•+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Java+•+Spring+Boot+•+Angular;Learning+Salesforce+%26+DevOps;Open+to+PFE+Internship+2027)](https://git.io/typing-svg)
 
 <p>
+
 <a href="mailto:mekranebahae153@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bahae-eddine-mekrane/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Bahaeeddine15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Bahaeeddine15&style=for-the-badge&color=0e75b6"/>
@@ -33,13 +30,13 @@
 
 🎓 Final-year Computer Engineering student at **ENSA Marrakech**
 
-💻 Building scalable web applications using **Java, Spring Boot, Angular, FastAPI, and Laravel**
+💻 Passionate about designing and building full-stack applications using **Java, Spring Boot, Angular, FastAPI, Django and Laravel**
 
-☁️ Currently expanding my skills in **Salesforce, Docker, Jenkins, and Azure**
+☁️ Currently expanding my expertise in **Salesforce, Docker, Jenkins and Azure**
 
-🏢 Internship experience at **Norsys Afrique** and **CODE212**
+🏢 Internship experience in **Software Engineering**, **Data Science**, and **Web Development**
 
-🌍 Host at the **Oracle Pod** during **GITEX Africa 2026**
+🌍 Oracle Representative Host at **GITEX Africa 2026**
 
 📌 Seeking a **PFE (End-of-Studies) Internship • 2027**
 
@@ -47,74 +44,102 @@
 
 # 💼 Experience
 
-## 🏢 Norsys Afrique
+## 🏢 Ibn Rochd Prépas
 
-**AI & Software Engineering Intern**
+**Freelance Web Developer**
 
-- Developed AI-powered recommendation features using Python
-- Built REST APIs for machine learning services
-- Processed and analyzed datasets with Pandas and Scikit-learn
-- Collaborated on AI model integration and backend development
+- Designed and deployed a responsive website for a private preparatory school.
+- Integrated EmailJS for automated registration confirmation emails.
+- Built interactive galleries and responsive navigation.
+- Deployed the project on Netlify.
 
 ---
 
 ## 🏢 CODE212
 
-**Full-Stack Development Intern**
+**Project Lead & Backend Developer Intern**
 
-- Contributed to Laravel web application development
-- Implemented new features and maintained existing modules
-- Participated in debugging and application improvements
-- Worked collaboratively using Git and Agile practices
+- Led backend development of the CODE212 platform.
+- Developed backend features using Laravel and SQL.
+- Collaborated with the development team throughout the project lifecycle.
+
+---
+
+## 🏢 Norsys Afrique
+
+**PFA Intern • Data Science**
+
+- Built recommendation system components for e-commerce applications.
+- Developed REST APIs using Django.
+- Performed data cleaning and preprocessing with Pandas.
+- Contributed to AI model integration.
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🤖 **AI Job Copilot** | AI-powered platform that analyzes resumes and helps users discover relevant job opportunities. | FastAPI • React Native • PostgreSQL |
-| 💸 **Okane Transfer** | Secure money transfer platform with authentication, account management, and transaction tracking. | Spring Boot • Angular • PostgreSQL |
-| 😊 **Real-Time Sentiment Analysis** | Big Data pipeline for multilingual sentiment analysis using cloud technologies. | Python • AWS • Streamlit |
-| 🚢 **DevOps CI/CD Pipeline** | Automated build and deployment pipeline using containerization and continuous integration tools. | Docker • Jenkins • Azure |
+| Project | Description | Stack |
+|----------|-------------|-------|
+| 🤖 **AI Job Application Copilot** | AI-powered mobile application that generates ATS-friendly resumes, cover letters and job matching recommendations. | FastAPI • React Native • PostgreSQL |
+| 💸 **Okane Transfer** | Secure money transfer platform featuring authentication, role management and multi-currency conversion. | Spring • Angular • PostgreSQL |
+| 📊 **Internship Assignment Optimization** | Operations research application implementing Branch & Bound and RVV algorithms. | Django • Python |
+| 🚗 **Carpooling Application** | Desktop MVC application integrating maps, geolocation and PostgreSQL. | JavaFX • JPA |
 
 ---
 
 # 🧰 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,php,html,css" />
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,php,html,css,sql" />
+
 </p>
 
 ---
 
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,laravel" />
+
+<img src="https://skillicons.dev/icons?i=spring,angular,react,fastapi,django,laravel" />
+
 </p>
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
 </p>
-
----
-
-## ☁️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,jenkins,azure,git,github,vscode,idea,linux" />
+
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🌩️ Currently Learning
+### ☁️ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,azure,linux,vscode,idea" />
+
+</p>
+
+---
+
+### 🌩️ Currently Learning
 
 <p align="center">
 
@@ -124,13 +149,22 @@
 
 ---
 
+# 🌟 Leadership & Activities
+
+- 🌍 Oracle Representative Host — **GITEX Africa 2026**
+- 👨‍💼 President — **Career Expo 5 Organizing Committee**
+- 🎤 Organizer — **IT Day & GEMINI Hack Night**
+- 🎓 Student Representative — **ENSA Marrakech**
+
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Bahaeeddine15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahaeeddine15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bahaeeddine15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahaeeddine15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -156,10 +190,10 @@
 
 # 🎯 Current Focus
 
-- ☁️ Learning Salesforce Development
-- ⚙️ Improving DevOps skills (Docker, Jenkins & Azure)
-- 🚀 Building production-ready full-stack applications
-- 📚 Preparing for my 2027 PFE internship
+- ☁️ Salesforce Development
+- ⚙️ DevOps (Docker, Jenkins & Azure)
+- 🚀 Building scalable full-stack applications
+- 📚 Preparing for a PFE Internship (2027)
 
 ---
 
@@ -173,10 +207,6 @@
 
 <a href="https://www.linkedin.com/in/bahae-eddine-mekrane/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Bahaeeddine15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
