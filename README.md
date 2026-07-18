@@ -1,8 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bahae%20Eddine%20Mekrane&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%40%20ENSA%20Marrakech&descAlignY=60)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bahae%20Eddine%20Mekrane&fontSize=48&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Java+Spring+Boot+%7C+Angular;Currently+seeking+a+PFE+2027+Internship;Based+in+Marrakech%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
+<h3>
+Computer Engineering Student • ENSA Marrakech
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Salesforce+Developer;Open+to+PFE+Internship+2027)](https://git.io/typing-svg)
 
 </div>
 
