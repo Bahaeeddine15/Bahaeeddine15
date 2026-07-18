@@ -34,7 +34,7 @@
 
 ☁️ Currently expanding my expertise in **Salesforce, Docker, Jenkins and Azure**
 
-🏢 Internship experience in **Software Engineering**, **Data Science**, and **Web Development**
+🏢 🏢 Hands-on experience building **web applications**, **REST APIs**, and **AI-powered solutions**
 
 🌍 Oracle Representative Host at **GITEX Africa 2026**
 
@@ -59,7 +59,7 @@
 
 **Project Lead & Backend Developer Intern**
 
-- Led backend development of the CODE212 platform.
+- Led the development of the CODE212 platform.
 - Developed backend features using Laravel and SQL.
 - Collaborated with the development team throughout the project lifecycle.
 
@@ -93,7 +93,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,php,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,sql" />
 
 </p>
 
@@ -103,7 +103,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,angular,react,fastapi,django,laravel" />
+<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,django,laravel" />
 
 </p>
 
