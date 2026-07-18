@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 Final-year student at **ENSA Marrakech**, Université Cadi Ayyad
-- 💻 Full-stack developer — Spring Boot, Angular, FastAPI, React Native, Laravel
+- 💻 Full-stack developer — Spring Boot, Angular, FastAPI
 - 🛠️ Learning DevOps — Docker, Jenkins, Azure
 - 🏢 Past internships at **CODE212** and **Norsys Afrique**
 - 🌍 Represented **Oracle** at **GITEX Africa**
@@ -24,10 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
