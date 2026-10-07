@@ -4,9 +4,9 @@
 
 <h3>Software Engineering Student • ENSA Marrakech</h3>
 
-<p>🇲🇦 Morocco</p>
+<p>🇲🇦 Marrakech, Morocco • Open to relocation in France</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Java+•+Spring+Boot+•+Angular;Learning+Salesforce+%26+DevOps;Open+to+PFE+Internship+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Java+•+Spring+Boot+•+Angular;DevOps+•+Kubernetes+•+Terraform+•+Azure;MLOps+%26+Applied+AI;Looking+for+a+6-month+PFE+from+February+2027)](https://git.io/typing-svg)
 
 <p>
 
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Bahaeeddine15&style=for-the-badge&color=0e75b6"/>
-
 </p>
 
 </div>
@@ -28,62 +26,52 @@
 
 # 🚀 About Me
 
-🎓 Final-year Computer Engineering student at **ENSA Marrakech**
+Final-year Computer Engineering student at **ENSA Marrakech**. I build backend and full-stack applications (**Java, Spring Boot, Angular, Python**) and the pipelines that ship them (**Docker, Jenkins, Kubernetes, Terraform, Azure**), with hands-on MLOps and applied AI work.
 
-💻 Passionate about designing and building full-stack applications using **Java, Spring Boot, Angular, FastAPI, Django and Laravel**
+🔎 **Looking for a 6-month PFE (end-of-studies internship) starting February 2027**, in Morocco or France.
 
-☁️ Currently expanding my expertise in **Salesforce, Docker, Jenkins and Azure**
-
-🏢 🏢 Hands-on experience building **web applications**, **REST APIs**, and **AI-powered solutions**
-
-🌍 Oracle Representative Host at **GITEX Africa 2026**
-
-📌 Seeking a **PFE (End-of-Studies) Internship • 2027**
-
----
-
-# 💼 Experience
-
-## 🏢 Ibn Rochd Prépas
-
-**Freelance Web Developer**
-
-- Designed and deployed a responsive website for a private preparatory school.
-- Integrated EmailJS for automated registration confirmation emails.
-- Built interactive galleries and responsive navigation.
-- Deployed the project on Netlify.
-
----
-
-## 🏢 CODE212
-
-**Project Lead & Backend Developer Intern**
-
-- Led the development of the CODE212 platform.
-- Developed backend features using Laravel and SQL.
-- Collaborated with the development team throughout the project lifecycle.
-
----
-
-## 🏢 Norsys Afrique
-
-**PFA Intern • Data Science**
-
-- Built recommendation system components for e-commerce applications.
-- Developed REST APIs using Django.
-- Performed data cleaning and preprocessing with Pandas.
-- Contributed to AI model integration.
+🌍 Oracle Representative Host at **GITEX Africa 2026**.
 
 ---
 
 # ⭐ Featured Projects
 
 | Project | Description | Stack |
-|----------|-------------|-------|
-| 🤖 **AI Job Application Copilot** | AI-powered mobile application that generates ATS-friendly resumes, cover letters and job matching recommendations. | FastAPI • React Native • PostgreSQL |
-| 💸 **Okane Transfer** | Secure money transfer platform featuring authentication, role management and multi-currency conversion. | Spring • Angular • PostgreSQL |
-| 📊 **Internship Assignment Optimization** | Operations research application implementing Branch & Bound and RVV algorithms. | Django • Python |
-| 🚗 **Carpooling Application** | Desktop MVC application integrating maps, geolocation and PostgreSQL. | JavaFX • JPA |
+|---------|-------------|-------|
+| 🚢 **DeployStage** | Self-service deployment platform: submit a Git repository and it is built and deployed on Azure Kubernetes Service. Spring Boot control plane driving Jenkins and Kubernetes, infrastructure provisioned with Terraform, multi-tenant isolation (namespaces, quotas, NetworkPolicy), Prometheus/Grafana monitoring and a live Angular dashboard. | Spring Boot • Angular • Kubernetes • Terraform • Jenkins |
+| 🛡️ **[Fraud Detection MLOps](https://github.com/Bahaeeddine15/fraud-detection-mlops)** | End-to-end MLOps pipeline for bank fraud detection: XGBoost model evaluated on AUC-PR (highly imbalanced data), MLflow experiment tracking, containerized FastAPI scoring service, Jenkins retraining and deployment on Azure, Streamlit monitoring dashboard. | Python • XGBoost • MLflow • FastAPI • Docker • Azure |
+| 🔁 **TaskFlow API** | Layered Spring Boot REST API (Controller/Service/Repository) with JUnit 5, Mockito, MockMvc and JaCoCo coverage; multi-stage Docker build and a Jenkins CI/CD pipeline deploying to Azure Container Apps. | Spring Boot • PostgreSQL • Docker • Jenkins • Azure |
+| 💸 **Okane Transfer** | Money transfer platform with Admin, Agent and Client roles, account and corridor management, real-time multi-currency conversion and a REST API secured with Spring Security and JWT. | Spring • Angular • PostgreSQL • JWT • Docker |
+| 🤖 **AI Job Application Copilot** | Mobile app that generates ATS-friendly CVs and cover letters with a Groq LLM and scores profile-to-job fit. FastAPI backend deployed on Hugging Face Spaces. | FastAPI • React Native • PostgreSQL • Groq |
+| 📊 **Big Data Sentiment Analysis** | Event-driven multilingual sentiment pipeline on AWS (SQS, S3, Athena) comparing a Keras/Word2Vec model with XLM-RoBERTa, with Streamlit dashboards. | Python • AWS • Keras • XLM-RoBERTa • Streamlit |
+
+---
+
+# 💼 Experience
+
+## ☁️ ENSA Marrakech — Salesforce PFA Intern
+*July 2026 – August 2026*
+
+- Configured a Salesforce CRM (Sales Cloud, Service Cloud): Leads, Accounts, Opportunities, Products and Price Books.
+- Set up a customer support process with Cases and Email-to-Case, including request categorization and status tracking.
+
+## 🌐 Ibn Rochd Prépas — Freelance Web Developer
+*June 2026 – August 2026*
+
+- Designed and deployed a responsive multi-page website for a private preparatory school (HTML, CSS, JavaScript) on Netlify.
+- Integrated EmailJS for registration confirmations and a lightbox gallery.
+
+## 🧩 CODE212 — Backend Developer Intern (Project, remote)
+*July 2025 – August 2025*
+
+- Implemented the backend of the CODE212 platform with Laravel and SQL.
+- Coordinated the project's technical direction as an intern.
+
+## 📈 Norsys Afrique — PFA Intern, Data Science & Backend (hybrid)
+*July 2025*
+
+- Developed components of an e-commerce recommendation system in Python (Django, pandas, SQL).
+- Built REST APIs to feed the recommendation data pipeline.
 
 ---
 
@@ -92,59 +80,49 @@
 ### 💻 Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,sql" />
-
 </p>
-
----
 
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,django,laravel" />
-
+<img src="https://skillicons.dev/icons?i=spring,angular,react,fastapi,django,laravel" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit%20%7C%20Mockito-25A162?style=for-the-badge"/>
+</p>
 
 ### 🗄️ Databases
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
 </p>
 
+### ☁️ DevOps & Cloud
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,jenkins,azure,linux,prometheus,grafana" />
 </p>
 
----
-
-### ☁️ DevOps & Tools
+### 🤖 Data & AI
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,azure,linux,vscode,idea" />
-
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
----
-
-### 🌩️ Currently Learning
+### 🧾 CRM
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
 </p>
 
 ---
@@ -152,25 +130,18 @@
 # 🌟 Leadership & Activities
 
 - 🌍 Oracle Representative Host — **GITEX Africa 2026**
-- 👨‍💼 President — **Career Expo 5 Organizing Committee**
-- 🎤 Organizer — **IT Day & GEMINI Hack Night**
-- 🎓 Student Representative — **ENSA Marrakech**
+- 🎤 Organizer — **IT Day & GEMINI Hack Night**, ENSA Marrakech (2026)
+- 👨‍💼 President, Organizing Committee — **Career Expo 4 & 5**, ENSA Marrakech
+- 🎓 Student Representative — Engineering Cycle, ENSA Marrakech
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Current Focus
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bahaeeddine15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahaeeddine15&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Bahaeeddine15&theme=tokyonight&hide_border=true"/>
-
-</div>
+- ☁️ Cloud-native DevOps: Kubernetes, Terraform, CI/CD, observability
+- 🛡️ MLOps and applied AI
+- 🚀 Full-stack Java applications (Spring Boot, Angular)
+- 📚 Preparing my PFE internship (February 2027)
 
 ---
 
@@ -185,15 +156,6 @@
 </picture>
 
 </div>
-
----
-
-# 🎯 Current Focus
-
-- ☁️ Salesforce Development
-- ⚙️ DevOps (Docker, Jenkins & Azure)
-- 🚀 Building scalable full-stack applications
-- 📚 Preparing for a PFE Internship (2027)
 
 ---
 
